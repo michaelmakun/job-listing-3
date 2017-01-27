@@ -300,3 +300,5 @@
     border-radius: 3px;//btn圆角
     width: 200px;//这里用指定宽度把btn拉得更长
 }
+
+.pagination>li>a, .pagination>li>span { border-radius: 50% !important;margin: 0 5px;}
